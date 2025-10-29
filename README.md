@@ -22,6 +22,7 @@ or
 or
 
 - reload: `sudo nginx -s reload`
+- test: `sudo nginx -t`
 
 ## Resources
 
